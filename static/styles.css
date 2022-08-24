@@ -1,0 +1,33 @@
+
+p.center{
+    font-family:Helvetica;
+    text-align:center;
+    font-weight: bold;
+    color: white;
+}
+
+body{
+    color: white;
+    font-family:Helvetica;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+p.error{
+    font-family: Helvetica;
+    color: white;
+}
+
+p.message{
+    font-family: Helvetica;
+    color: white;
+}
+
+p.intro_body{
+    font-family: Helvetica;
+    padding: 20px 40px;
+    background-color: rgba(255, 255, 255, 0.6);
+    font-size: 20px;
+    margin-left: 10em;
+    margin-right: 10em;
+}
